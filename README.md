@@ -1,5 +1,8 @@
 # AltoTrail
 
+Public documentation and portfolio material for AltoTrail, a multilingual
+job-search and labour-market exploration product.
+
 AltoTrail is an independently developed multilingual job-search and
 labour-market exploration product in active development.
 
@@ -50,4 +53,4 @@ explicitly stated in writing.
 ## Contact
 
 For public contact information, use the contact details available on
-altotrail.com.
+[altotrail.com](https://altotrail.com/).
